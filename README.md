@@ -1,6 +1,6 @@
 # KENO Game Simulation
 
-Watch Demo Video:
+Watch Demo Video: https://drive.google.com/file/d/1yapKbOEG5Ku0G-jDnvRqo-HSE-tEdRKz/view?usp=sharing
 
 ## Overview
 This project is a JavaFX implementation of the popular lottery game **Keno**. The goal of this project is to demonstrate proficiency in **GUI development using JavaFX** and **event driven programming** while simulating a real time lottery game experience.
